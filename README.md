@@ -8,4 +8,8 @@ well-suited for creating Domain Specific Languages (DSLs).
 
 Gradle is powerful because it uses flexible DSLs written in Kotlin or Groovy that allows high customization over build scripts.  
 
-Never judge me for these starter projects. write a good readme.
+Never judge me for these starter projects. write a good readme.  
+
+
+
+Let's bridge Fortran to a highlevel langauge. It's a niche and good for high volume traffic like hfq trading platform.

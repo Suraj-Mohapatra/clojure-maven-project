@@ -1,7 +1,13 @@
 (ns com.uglyeagle.main
   (:gen-class))
+  
+(defn unmain []
+  (println "This is the unmain function."))
+
 
 (defn -main
-  "This is the main function that runs when the program starts."
+  "this is the main function that runs when the program starts."
   [& args]
-  (println "Hello, World!"))
+  (println "Hello, World!")
+  (unmain))
+
